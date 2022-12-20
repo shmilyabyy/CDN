@@ -37,7 +37,7 @@ const initConfig = {
   },
   night: "toggleNightMode()",
   model: [
-    "https://kanbanniang.sfo3.digitaloceanspaces.com/live2d/Diana/Diana.model3.json"
+    "https://cdn.jsdelivr.net/gh/shmilyabyy/CDN/live2d/Diana/Diana.model3.json"
   ],
   tips: true,
   onModelLoad: onModelLoad
